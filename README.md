@@ -94,7 +94,7 @@ This project is optimized for **Google Colab**.
 
 ## 🤝 Connect
 Feel free to discuss this project or give feedback!
-* **LinkedIn:** [Your LinkedIn Profile]
+* **LinkedIn:** [https://www.linkedin.com/in/jerico-christianto]
 * **Email:** [Your Email Address]
 
 ---
