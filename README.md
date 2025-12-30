@@ -95,7 +95,7 @@ This project is optimized for **Google Colab**.
 ## 🤝 Connect
 Feel free to discuss this project or give feedback!
 * **LinkedIn:** [https://www.linkedin.com/in/jerico-christianto]
-* **Email:** [Your Email Address]
+* **Email:** [jericochristianto@gmail.com]
 
 ---
 *Disclaimer: This project is part of a Virtual Internship Experience at Rakamin Academy x Home Credit Indonesia.*
