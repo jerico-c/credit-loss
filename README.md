@@ -79,7 +79,7 @@ This project is optimized for **Google Colab**.
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/username/home-credit-scoring.git](https://github.com/username/home-credit-scoring.git)
+    git clone https://github.com/jerico-c/credit-loss.git
     ```
 2.  **Upload Data:**
     Ensure `application_train.csv` and `bureau.csv` are in your Google Drive or local directory.
